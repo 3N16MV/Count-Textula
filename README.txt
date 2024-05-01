@@ -1,17 +1,11 @@
 This is the distribution package for Count Textula Initial Release 
 (February, 2024).
 
-This package is Exercise 4 of Chapter 8 from the Book: Python for 
-Everybody: Exploring Data in Python 3 by Charles Severance. 
-ISBN: 9781530051120
-
 This exercise was conducted as an assignment for Cyebrsecurity Class
 CYB216-10692 at National University. The purpose of this assignment
 is to count the frequency of words in a file.
-
   
 Count Textula is open source and licensed under the GNU General Public License.
-
 
 For more information about my work please see my portfolio or reach me 
 via LinkedIn: 
